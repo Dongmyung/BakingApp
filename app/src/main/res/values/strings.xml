@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="error_message">Due to internet connection or other issues, we couldn\'t fetch data. Please check internet connection or please use later again.</string>
+    <string name="detail_error_message">Recipe data not available</string>
+    <string name="detail_ingredient_title">Ingredient List</string>
+    <string name="btn_previous_step">Previous</string>
+    <string name="btn_next_step">Next</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_view_text">Recipe is empty! Tap here!</string>
+    <string name="no_previous_step">There is no previous step</string>
+    <string name="no_next_step">There is no next step</string>
+</resources>
